@@ -33,6 +33,7 @@ Caso queira, sinta-se à vontade para enviar um pull request acrescentando links
 |---------|--------|--------|
 | Capítulo 1 | Pesquisa Binária| [Busca Binária](https://pt.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
 | Capítulo 1 | Notação Big O| [Como medimos a complexidade de um Algoritmo?](https://gabrielschade.github.io/2019/06/16/algoritmos-i.html)
+| Capítulo 1 | Logaritmos| [Logaritmo 01: Introdução - Parte I](https://www.youtube.com/watch?v=MVvDBdRxxVc)
 | Capítulo 3 | Recursão| [Recursão - Ruby](https://dev.to/dnovais/recursao-ruby-35gi)
 
 

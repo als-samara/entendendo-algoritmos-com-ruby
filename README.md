@@ -35,6 +35,7 @@ Caso queira, sinta-se à vontade para enviar um pull request acrescentando links
 | Capítulo 1 | Notação Big O| [Como medimos a complexidade de um Algoritmo?](https://gabrielschade.github.io/2019/06/16/algoritmos-i.html)
 | Capítulo 1 | Logaritmos| [Logaritmo 01: Introdução](https://www.youtube.com/watch?v=MVvDBdRxxVc)
 | Capítulo 2 | Ordenação Por Seleção| [Ordenação por seleção - Selection Sort](https://dev.to/dormin/ordenacao-por-selecao-selection-sort-5hla)
+| Capítulo 2 | Arrays e Listas Encadeadas| [Qual a diferença entre um array e uma lista encadeada?](https://medium.com/pravaler-digital-team/qual-a-diferen%C3%A7a-entre-um-array-e-uma-lista-encadeada-e5bd64ab1790)
 | Capítulo 3 | Recursão| [Recursão - Ruby](https://dev.to/dnovais/recursao-ruby-35gi)
 
 

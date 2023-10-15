@@ -37,6 +37,8 @@ Caso queira, sinta-se à vontade para enviar um pull request acrescentando links
 | Capítulo 2 | Ordenação Por Seleção| [Ordenação por seleção - Selection Sort](https://dev.to/dormin/ordenacao-por-selecao-selection-sort-5hla)
 | Capítulo 2 | Arrays e Listas Encadeadas| [Qual a diferença entre um array e uma lista encadeada?](https://medium.com/pravaler-digital-team/qual-a-diferen%C3%A7a-entre-um-array-e-uma-lista-encadeada-e5bd64ab1790)
 | Capítulo 3 | Recursão| [Recursão - Ruby](https://dev.to/dnovais/recursao-ruby-35gi)
+| Capítulo 4 | Dividir Para Conquistar| [Encontrando o MDC](https://www.youtube.com/feed/history?query=euclides)
+| Capítulo 4 | Dividir Para Conquistar| [Algoritmo de Euclides](https://www.youtube.com/feed/history?query=euclides)
 
 
 ## Contatos
